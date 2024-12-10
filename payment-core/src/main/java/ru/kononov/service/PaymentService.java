@@ -1,6 +1,6 @@
 package ru.kononov.service;
 
-import main.java.ru.kononov.entity.UserProduct;
+import ru.kononov.entity.UserProduct;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.client.RestTemplate;
 

@@ -1,6 +1,6 @@
 package ru.kononov.client;
 
-import main.java.ru.kononov.entity.UserProduct;
+import ru.kononov.entity.UserProduct;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

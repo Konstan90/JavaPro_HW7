@@ -11,6 +11,7 @@
     <modules>
         <module>payment-core</module>
         <module>product-service</module>
+        <module>shared</module>
     </modules>
 
     <properties>
@@ -33,6 +34,11 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
         </dependency>
 
         <dependency>

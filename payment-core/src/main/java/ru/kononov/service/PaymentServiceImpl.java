@@ -1,7 +1,7 @@
 package ru.kononov.service;
 
 import lombok.RequiredArgsConstructor;
-import main.java.ru.kononov.entity.UserProduct;
+import ru.kononov.entity.UserProduct;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.ParameterizedTypeReference;

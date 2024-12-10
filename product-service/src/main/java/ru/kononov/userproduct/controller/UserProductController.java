@@ -1,9 +1,10 @@
 package ru.kononov.userproduct.controller;
 
-import main.java.ru.kononov.entity.UserProduct;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import ru.kononov.entity.UserProduct;
 import ru.kononov.userproduct.service.UserProductServImpl;
 
 import java.math.BigDecimal;

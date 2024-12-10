@@ -1,7 +1,7 @@
 package ru.kononov.controller;
 
 import lombok.RequiredArgsConstructor;
-import main.java.ru.kononov.entity.UserProduct;
+import ru.kononov.entity.UserProduct;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.ParameterizedTypeReference;
